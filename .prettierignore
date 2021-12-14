@@ -1,7 +1,4 @@
-unpackage
-node_modules
-coverage
-static/common/*
+/unpackage/
 /uni_modules/uview-ui/libs/luch-request/
 /uni_modules/uview-ui/libs/util/async-validator.js
 /uni_modules/uview-ui/libs/util/calendar.js
